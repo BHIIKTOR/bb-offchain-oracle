@@ -1,5 +1,11 @@
 # Backbone off-chain "oracle"
 
+## How to run
+
+```bash
+PORT=8000 npm start
+```
+
 ## Strategy example
 
 ```JavaScript
